@@ -1,6 +1,7 @@
 # IMMFLY Playwright Test Automation
 
 This repository contains Playwright test cases written in TypeScript for IMMFLY. It includes tests for sorting product lists by various options (e.g., price low to high, product name). The tests include a UI assertion followed by a small verification of sorting.
+I've directly pushed to Main every single time because this is a test project, would not do the same if it was a real project. 
 
 ## Prerequisites
 
